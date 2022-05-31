@@ -1,1 +1,1 @@
-My readme file for the shell redirection tasks
+This is my readme file for the shell redirections
